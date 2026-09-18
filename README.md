@@ -17,11 +17,11 @@ I'm Asa, a student at BYU Pathway-Worldwide interested in developing and designi
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/asa-benson/) profile
-- Here is my [Github Page](https://asalbenson.github.io/albenson/) profile
+- Here is my [Github Page](https://github.com/asalbenson/albenson) profile
 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asa-benson/)
 
-[![](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://asalbenson.github.io/albenson/)
+[![](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/asalbenson/albenson)
