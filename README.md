@@ -17,7 +17,7 @@ I'm Asa, a student at BYU Pathway-Worldwide interested in developing and designi
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/asa-benson/) profile
-- Here is my [Github Page](https://github.com/asalbenson/albenson) profile
+- Here is my [Github Page](https://asalbenson.github.io/albenson/index) profile
 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
